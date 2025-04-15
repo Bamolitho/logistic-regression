@@ -6,7 +6,7 @@ import math
 
 #%matplotlib inline
 
-X_train, y_train = load_data("/home/ing/Documents/Machine Learning/Week3/Projet final/data/ex2data2.txt")
+X_train, y_train = load_data("data/ex2data2.txt")
 
 
 def sigmoid(z):
